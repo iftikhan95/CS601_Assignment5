@@ -1,0 +1,22 @@
+{
+    "Degrees": [
+        {    
+            "degree": {
+                "School"    : "Stony Brook Unversity",
+                "Program"   : "Electrical Engineering",
+                "Type"      : "B.E.",
+                "Year"      : "2019"
+            }
+        },
+        {
+            "degree": {
+                "School"    : "Boston University",
+                "Program"   : "Software Development",
+                "Type"      : "M.S.",
+                "Year"      : "2023"
+            }
+        }
+
+    ]
+    
+}
